@@ -1,0 +1,20 @@
+$header-color: #009999;
+$text-color: #1D7373;
+$footer-color: #006363;
+
+.header {
+  background-color: $header-color;
+  color: white;
+  padding: 20px;
+}
+
+.main {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.footer {
+  background-color: $footer-color;
+  color: white;
+  padding: 20px;
+}
